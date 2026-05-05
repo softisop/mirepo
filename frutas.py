@@ -10,3 +10,5 @@ print("Fresa")
 print("Papaya")
 print("Piña")
 print("Pitaya")
+print("Kiwi")
+
