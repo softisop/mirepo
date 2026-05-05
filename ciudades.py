@@ -1,6 +1,6 @@
 # Programa que imprime el nombre de las ciudades 
 
-print("Cali")
+print("Pereira")
 print("Bogota")
 print("Bucaramanga")
 print("Medellin")
